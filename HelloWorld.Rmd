@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "HelloWorld"
 author: "Verkler2"
@@ -30,3 +31,11 @@ plot(pressure)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 ##This is a markdown file
+=======
+
+
+## R Markdown
+
+##This is a Markdown file
+
+>>>>>>> 8995c642fe030a1499ad01d5b74629a9b91cd22c
